@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WSDLibKit'
-  s.version          = '0.1.0'
+  s.version          = '1.2.1.2401151030'
   s.summary          = '设备配网SDK'
 
 # This description is used to generate tags and improve search results.
