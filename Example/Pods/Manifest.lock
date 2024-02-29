@@ -1,0 +1,16 @@
+PODS:
+  - WSDLibKit (0.1.0)
+
+DEPENDENCIES:
+  - WSDLibKit (from `../`)
+
+EXTERNAL SOURCES:
+  WSDLibKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSDLibKit: cb6199a3e999650e0d812f08cc26ea470b40147f
+
+PODFILE CHECKSUM: ccd460c35be273e9ef70e3841c4074de9cc41e9f
+
+COCOAPODS: 1.15.2

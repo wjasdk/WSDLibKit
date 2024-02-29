@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'WSDLibKit_Example' do
+  pod 'WSDLibKit', :path => '../'
+
+  target 'WSDLibKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

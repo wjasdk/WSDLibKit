@@ -1,0 +1,6 @@
+framework module WSDLibKit {
+  umbrella header "WSDLibKit.h"
+  export *
+
+  module * { export * }
+}
